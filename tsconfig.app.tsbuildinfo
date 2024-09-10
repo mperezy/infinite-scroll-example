@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/chakra-theme.ts","./src/main.tsx","./src/vite-env.d.ts","./src/api/use-pokemons.ts","./src/api/services/get-pokemons.ts","./src/hooks/use-infinite-scroll.ts","./src/pages/index.tsx","./src/types/api.d.ts"],"version":"5.6.2"}
